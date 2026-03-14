@@ -14,10 +14,9 @@ export default function App() {
       <main className="flex-grow flex flex-col items-center justify-center px-6 text-center text-white pt-20 pb-10">
         {/* Logo Section */}
         <div className="flex items-center gap-4 mb-16">
-          {/* Logo */}
           <div className="w-60 h-20">
             <img
-              src="/src/assets/logo-dumah.svg"
+              src="/logo-dumah.svg"
               alt="Dumah Logo"
               className="w-full h-full object-contain"
             />
